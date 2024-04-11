@@ -20,4 +20,6 @@ html {
   background-color: #0000;
   color: #fff;
   outline: none;
+  border: none;
+  font-size: 100px;
 }
